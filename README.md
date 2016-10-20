@@ -25,3 +25,6 @@ npm test
 ```
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+VUE-CLI[Github](https://github.com/vuejs/vue-cli)
+考虑到前后端分离，所以使用VUE-CLI官方给的脚手架搭建起来，集成[VUE-ROUTER](https://github.com/vuejs/vue-router)和[vue-resource](https://github.com/vuejs/vue-resource)
